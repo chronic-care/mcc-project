@@ -1,3 +1,5 @@
+![alt text](http://documentation/MCCCarePlanning.png)
+
 # mcc-project
 MCC eCare Plan project planning and documentation
 
