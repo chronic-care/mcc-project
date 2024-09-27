@@ -1,3 +1,7 @@
+![alt text](https://github.com/chronic-care/mcc-project/blob/main/documentation/MCCCarePlanning.png?raw=true)
+
+
+
 # mcc-project
 MCC eCare Plan project planning and documentation
 
