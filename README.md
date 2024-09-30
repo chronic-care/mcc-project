@@ -13,7 +13,8 @@ The eCare apps consist of two web-based SMART on FHIR applications, along with a
 - [Common Data Services README](https://github.com/chronic-care/e-care-common-data-services/blob/main/README.md) 
 - [Supplemental Data Store (SDS) README](https://github.com/OHSUCMP/ecp-sds-hardfork/blob/main/README.md)
 
-## Helpful Links
-- [eCare System Architecture](documentation/ecare-architecture.md)
-- [Security Considerations](documentation/security-considerations.md)
-- [Adopter Questions](documentation/adopter-questions.md)
+## Informational Links
+- [eCare System Architecture](https://github.com/chronic-care/mcc-project/blob/bf39d326e9c5c8a739e09fe6de9a1db166709245/documentation/ecare-architecture.md)
+- [Security Considerations](https://github.com/chronic-care/mcc-project/blob/bf39d326e9c5c8a739e09fe6de9a1db166709245/documentation/security-considerations.md)
+- [Adopter Questions](https://github.com/chronic-care/mcc-project/blob/bf39d326e9c5c8a739e09fe6de9a1db166709245/documentation/adopter-questions.md)
+- [Application UI Designs](https://github.com/chronic-care/mcc-project/tree/bf39d326e9c5c8a739e09fe6de9a1db166709245/ui-designs)
