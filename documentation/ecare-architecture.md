@@ -12,6 +12,12 @@ The MCC care plan technical architecture leverages an SDS to host patient-contri
 
 The patient/caregiver application reads these data from multiple providers and presents the collected data in a meaningful and usable way for use by non-clinicians, featuring capabilities like categorizing diagnoses based on extensive value sets using Clinical Quality Language (CQL). Clinicians can access the aggregated patient data from their institution, allowing them to view comprehensive health information collected by patients from multiple providers, including the patient-contributed content stored in the SDS.
 
+### MyCarePlanner Architecture Diagram
+![alt text](https://github.com/chronic-care/mcc-project/blob/8bb810845aa7dd957171fad688d2266fc74ed6d4/documentation/eCare%20Architecture%20-%20MyCarePlanner.png)
+
+### eCarePlanner Architecture Diagram
+![alt text](https://github.com/chronic-care/mcc-project/blob/8bb810845aa7dd957171fad688d2266fc74ed6d4/documentation/eCare%20Architecture%20-%20eCarePlanner.png)
+
 ## Component Features
 The U.S. 21st Century Cures Act empowers all patients with a right to access their healthcare data from each of their providers that uses an ONC-certified EHR system. These data include U.S. Core Data for Interoperability (USCDI) data elements based on the US Core FHIR implementation guide for interoperability.
 
