@@ -18,3 +18,4 @@ The eCare apps consist of two web-based SMART on FHIR applications, along with a
 - [Security Considerations](documentation/security-considerations.md)
 - [Adopter Questions](documentation/adopter-questions.md)
 - [Application UI Designs](ui-designs)
+- [Future Recommendations for eCare](documentation/future-recommendations.md)
